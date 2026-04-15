@@ -66,5 +66,7 @@ LLM wiki/
 ---
 
 _基于 [Andrej Karpathy: llm-wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) 模式构建。_
+
 _v2拓展： [Andrej Karpathy: llm-wiki](https://github.com/nashsu/llm_wiki) /_
+
 _其他wiki： [nashsu: llm-wiki](https://github.com/nashsu/llm_wiki) /_
